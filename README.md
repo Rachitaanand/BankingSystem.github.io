@@ -1,29 +1,42 @@
-# BankingSystem.github.io
+## Bank-DBMS
 
-Hey,
-I am creating a banking system DBMS project for HDFC Bank.
+#### Introduction 
 
-The Bank Account Management System is an application for maintaining a person's account in a bank. 
-“Bank Account Management System” is used to provide an improved design methodology, which envisages the future expansion, and modification, which is necessary for a core sector like banking.
-Now a day’s, managing a bank is tedious job up to certain limit. So software that reduces the work is essential. 
-Also today’s world is a genuine computer world and is getting faster and faster day-by-day. Thus, considering above necessities, the software for bank management has became necessary which would be useful in managing the bank more efficiently.
+People want money for personal and commercial purposes and banks are the oldest lending institutions in Indian scenario. 
+They are providing facilities to all citizens for their own
+purposes according to their terms. 
 
-HDFC is an INDIAN multinational financial services corporation headquartered in MUMBAI, INDIA. This bank was founded in 1994. HDFC is a prestige bank known for their customer base all over the world.  With the huge amount of cliental, this bank can never go wrong with their database. Hence, in this DBMS project we would be taking an example of this bank to demonstrate database schemas, ER diagram, and SQL implementation.
+To survive in this modern market every bank implements various novel and innovative ideas, strategies as well as advanced technologies. 
 
-A banking system reduces the requirement for the manual labour, and the automated tasks will be error free as they will only work as they are programmed whereas doing work manually there is always a possibility of human error.
-Benefits for a banking system:
-1.Provide Flexibility
-2.Provide Better performance
-3.Reduces manpower
-4.Helps doing work more accurately
-5.Faster Performance
+For that they give each and every minute detail about their
+institution and projects to public. They are providing ample facilities
+to satisfy their customers i.e. Net Banking, Mobile Banking, Door to
+Door facility, Instant facility, Investment facility, Demat facility,
+Credit Card facility, Loans and Advances, Account facility etc. And
+such banks get success to create their own image in public and
+corporate world.
 
-MAJOR CHARACTERISTICS:
-The bank is organised into branches. Each branch is located in a particular city and is identified by a unique name. The bank monitors the assets of each branch. 
- Bank customers are identified by their customer_id value. The bank stores each customer’s name, and the street and the city where the customer lives. Customers may have accounts and can take out loans. A customer may be associated with a particular banker; who may act as a loan officer or personal banker for that customer. 
-The bank offers two types of accounts: savings and checking accounts. Accounts can be held by more than one customer, and a customer can have more than one account. Each account is assigned a unique account number. The bank maintains a record of each account’s balance and the most recent date on which the account was accessed by each customer holding the account. In addition each savings account has an interest rate, and overdrafts are recorded for each checking account.
+#### Description
 
-ER DIAGRAM:
-![image](https://user-images.githubusercontent.com/82277376/114311041-c01c7200-9b0a-11eb-84dd-9d45f185eaff.png)
+This project has been developed to carry out
+the processes easily and quickly, which is not possible with the
+manuals systems, which are overcome by this software. 
+
+Creating and
+managing requirements is a challenge of IT, systems and product
+development projects or indeed for any activity where you have to
+manage a contractual relationship. Organization need to effectively
+define and manage requirements to ensure they are meeting needs of
+the customer, while proving compliance and staying on the schedule
+and within budget. The impact of a poorly expressed requirement
+can bring a business out of compliance or even cause injury or death.
 
 
+Requirements definition and management is an activity that can
+deliver a high, fast return on investment. Thus, above features of this
+project will save transaction time and therefore increase the
+efficiency of the system.
+
+#### ER Diagram 
+
+![Diagram2](https://user-images.githubusercontent.com/33753405/70563167-c5cf1400-1bb3-11ea-890b-c28fa84396c5.png)
